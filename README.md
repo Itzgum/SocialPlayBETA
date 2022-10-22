@@ -1,0 +1,2 @@
+Requirements: Winrar and knowledge that this is in beta so dont complain. How-to play: there are 2 methods!: Method 1: Extract the rar file with winrar to "Socialplay/" Open the socialplay folder (ik its a folder inside a folder) and then select index, games, defeat the block. and done! (To jump just click) and done!
+Requirements Method 2: Go to: http://socialplay.epizy.com/SocialPlay/ and open games and click defeat the block (it has same controls) WARNING: You still need the RAR file(s) to be able to read TOS.
